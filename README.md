@@ -1,6 +1,6 @@
 # Gazonokosilka
 Простенькая игра, в которой ты косишь газон. Мне эта идея кажется забавной.
-![Key art](https://github.com/alexcreepman/Gazonokosilka/blob/master/Assets/Art/OBLOZhKA%20169.png)
+![Key art](https://github.com/alexcreepman/Gazonokosilka/blob/master/Assets/Art/OBLOZhKA_compressed.png)
 Управление - WASD/стрелочки/курки и стик.
 
 Цель игры - набирать очки! Чем эффективнее и стильнее герой косит газон (а стильнее всего это получается, конечно же, боком), тем крупнее множитель.
